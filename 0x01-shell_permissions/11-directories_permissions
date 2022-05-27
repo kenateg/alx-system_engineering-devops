@@ -1,2 +1,2 @@
 #!/bin/bash
-find /var/www/html -type d -exec chmod 755 {} \;
+find /var/www/html -type d -exec chmod 755 {} \
