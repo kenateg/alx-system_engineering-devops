@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -wo '[[:alnum:]]\+' list | sort | uniq -d
+sort | uniq -u
