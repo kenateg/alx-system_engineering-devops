@@ -1,5 +1,5 @@
-total 44
-drwxr-xr-x 2 root root 252 May 30 05:31 .
+total 52
+drwxr-xr-x 2 root root 333 May 30 05:39 .
 drwxr-xr-x 6 root root 104 May 30 04:07 ..
 -rwxr-xr-x 1 root root  32 May 30 04:36 0-hello_world
 -rwxr-xr-x 1 root root  28 May 30 04:31 1-confused_smiley
@@ -9,7 +9,12 @@ drwxr-xr-x 6 root root 104 May 30 04:07 ..
 -rwxr-xr-x 1 root root  35 May 30 04:48 5-firstlines
 -rwxr-xr-x 1 root root  36 May 30 05:07 6-third_line
 -rwxr-xr-x 1 root root 102 May 30 05:29 7-file
+-rwxr-xr-x 1 root root  36 May 30 05:32 8-cwd_state
+-rw-r--r-- 1 root root  37 May 30 05:39 9-duplicate_last_line
 -rw-r--r-- 1 root root  12 May 30 05:29 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
--rw-r--r-- 1 root root 801 May 30 04:54 iacta
--rw-r--r-- 1 root root   0 May 30 05:31 ls.txt
+-rwxr-xr-x 1 root root  72 May 30 05:35 git
+-rw-r--r-- 1 root root   0 May 30 05:39 iacta
+-rw-r--r-- 1 root root   0 May 30 05:40 ls_cwd_content
+-rw-r--r-- 1 root root   0 May 30 05:44 ls.txt
+-rw-r--r-- 1 root root   7 May 30 04:16 README.md
 -rw-r--r-- 1 root root   7 May 30 04:16 README.md
